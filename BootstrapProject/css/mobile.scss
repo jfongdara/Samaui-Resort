@@ -1,0 +1,118 @@
+
+
+/* Home Page */
+
+.row {
+    margin: 0px;
+}
+
+.showCase p {
+    font-size: 17px;
+}
+.showCase h1 {
+    font-size: 100px;
+}
+
+.bottomShowCase .carousel {
+    margin-left: 205px;
+    margin-bottom: 0px;
+    width: 350px;
+}
+
+.bottomShowCase .underCarousel  {
+    display: inline-block;
+    margin-bottom: 50px;
+    p {
+        font-size: 10px;
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+}
+
+.bottomShowCase .underCarousel .bookButton {
+    padding: 20px;
+}
+
+.bottomShowCase h1 {
+    font-size: 50px;
+}
+
+
+
+/* Book Page */ 
+
+.backgroundImageBook {
+    background: url(/wdv205/BootstrapProject/img/sebastian-pichler-m2U9C875LJQ-unsplash.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 1100px;
+}
+
+/* Resort Page */ 
+
+.backgroundImageResort {
+    background: url(/wdv205/BootstrapProject/img/rachael-annabelle-yZEqKsZIznM-unsplash.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 20vh;
+}
+
+
+.resortContainer {
+    margin: 10px;
+    img {
+        width: 250px;
+    }
+}
+
+.resortContainer .resortContentGap {
+    display: block;
+    margin-left: 0px;
+}
+
+.resortContainer .resortContent {
+    display: block;
+}
+
+.resortContainer .resortContent > div {
+    margin-top: 30px;
+}
+
+/* About Page */
+
+.backgroundImageAbout {
+    background: url(/wdv205/BootstrapProject/img/jakob-owens-5F_c9i3JP0I-unsplash.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 1180px;
+}
+.aboutContainer {
+    .aboutSmaui {
+        height: 225px;
+        padding: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .circleImg {
+        margin: 30px 0px 30px 0px;
+    }
+
+    .meetOwner {
+        width: 95%;
+        height: 410px;
+        margin-left: 0px;
+        display: block;
+        img {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+  /* Contact Page */ 
+  .backgroundContact {
+    background: url(/wdv205/BootstrapProject/img/denys-nevozhai-guNIjIuUcgY-unsplash.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 1000px;
+}
